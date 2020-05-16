@@ -1,1 +1,1 @@
-# BP by matlab
+BP（Back Propagation）by matlab
